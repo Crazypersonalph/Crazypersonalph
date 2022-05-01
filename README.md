@@ -1,5 +1,5 @@
 # Well, this is my About Me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypersonalph&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypersonalph&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypersonalph&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #### This isn't exactly completely true, I do a lot of work with C++, HTML, C#, and other languages, I just don't have them as repos.
