@@ -2,7 +2,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazypersonalph&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazypersonalph&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-#### This isn't exactly completely true, I do a lot of work with C++, HTML, C#, and other languages, I just don't have them as repos.
 
 <!--
 **Crazypersonalph/Crazypersonalph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
