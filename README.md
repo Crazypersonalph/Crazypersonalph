@@ -9,4 +9,4 @@
 </picture>
 
 - 🔭 I’m currently working on the BetterSEQTA+ Project.
-- 🌱 I’m currently studying in high school, and I'm hoping to do CompSci in uni.
+- 🌱 I’m currently studying.
